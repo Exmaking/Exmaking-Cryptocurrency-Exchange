@@ -135,4 +135,4 @@ Yes, Buyers Will Receive the Full Source Code of the Product. This Allows for Co
 ## Support and Contact Information
 For more information and to start using Exmaking Exchange, please download the attached guide file or contact us via Telegram.
 
-[Download the script](bitnal-codecanyon-v2.docx)
+[Join Us in Telegram](https://t.me/Ex_supportt)
