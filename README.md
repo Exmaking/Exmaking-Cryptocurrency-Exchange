@@ -1,5 +1,5 @@
 
-![Description](exmaking-cover.jpg)
+![Description](Exmaking-Cover.jpg)
 
 
 # Exmaking Cryptocurrency Exchange Node.js Script | DEX 
